@@ -1,0 +1,4 @@
+Raccourcis IntelliJ
+Ctrl+Espace (complétetion)
+Alt+Entrée (quickfix)
+Alt+F12 (view/Tools Windows / Terminal) 
